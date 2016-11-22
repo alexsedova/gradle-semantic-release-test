@@ -12,6 +12,9 @@ public class Test {
 
     public static String helloAll() { return hello("everyone!"); }
 
+    //
+    //public static String hej() { return hello("hej!"); }
+
     public static String hello(String who) {
         return "Hello " + who;
     }
