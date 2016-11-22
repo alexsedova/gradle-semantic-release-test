@@ -10,6 +10,8 @@ public class Test {
         return hello("World!");
     }
 
+    public static String helloAll() { return hello("all!"); }
+
     public static String hello(String who) {
         return "Hello " + who;
     }
