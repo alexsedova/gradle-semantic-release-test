@@ -7,7 +7,7 @@ public class Test {
     }
 
     public static String helloWorld() {
-        return hello("World");
+        return hello("World!");
     }
 
     public static String hello(String who) {
