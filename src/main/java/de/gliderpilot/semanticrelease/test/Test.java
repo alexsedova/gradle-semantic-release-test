@@ -10,7 +10,7 @@ public class Test {
         return hello("World!");
     }
 
-    public static String helloAll() { return hello("everyone!"); }
+    //public static String helloAll() { return hello("everyone!"); }
 
     //
     public static String hej() { return hello("hej man!"); }
