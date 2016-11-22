@@ -3,10 +3,10 @@ package de.gliderpilot.semanticrelease.test;
 public class Test {
 
     public static void main(String[] args) {
-        System.out.println(helloWorldA());
+        System.out.println(helloWorldB());
     }
 
-    public static String helloWorldA() {
+    public static String helloWorldB() {
         return hello("World!");
     }
 
